@@ -1,8 +1,10 @@
 h1{
     font-size: 35px;
     color: red;
+    text-transform: capitalize;
 }
 h2{
     font-size: 25px;
     color: blue;
+    text-transform: capitalize;
 }
