@@ -1,12 +1,11 @@
 h1{
-    font-size: 32px;
+    font-size: 11px;
     color: red;
-
     text-transform: uppercase;
     font-style: italic;
 }
 h2{
-    font-size: 12px;
+    font-size: 11px;
     color: blue;
     text-transform: uppercase;
     font-style: italic;
